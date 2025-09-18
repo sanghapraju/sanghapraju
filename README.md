@@ -12,7 +12,8 @@ I love creating things that live at the intersection of 🤖 **Artificial Intell
 
 When I’m not coding 💻, you’ll find me exploring new hobbies ; whether it’s self-learning to play guitar 🎶 or creating things by hand such as crocheting 🧶.  
 
-I’m also curious about 🌍 cultures, 🗣️ languages, and the ✨ little details in everyday life. That same curiosity drives how I approach technology and design.  
+I’m also curious about 🌍 cultures, 🗣️ languages, and the little details in everyday life ✨ . It’s this curiosity that shapes how I connect people and technology through design.  
+
 
 
 
