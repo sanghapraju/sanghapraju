@@ -8,8 +8,12 @@ Welcome to my Github 🙌
 [![GitHub | shreyasanghamitra](https://img.shields.io/badge/GitHub%20%7C%20shreyasanghamitra-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanghapraju)
 
 ## 🙋‍♀️ About Me
-I love creating things that live at the intersection of **Artificial Intelligence, Human-Computer Interaction and Language Technologies**.
-When I’m not coding, you’ll find me **exploring new hobbies** — whether it’s self-learning to play guitar 🎶 to creating things by hand such as crocheting 🧶, or diving into cultures, languages, and the little details in everyday life. That same curiosity drives how I approach technology and design.  
+I love creating things that live at the intersection of 🤖 **Artificial Intelligence, 🧑‍💻 Human-Computer Interaction and 💬 Language Technologies**.
+
+When I’m not coding 💻, you’ll find me exploring new hobbies ; whether it’s self-learning to play guitar 🎶 or creating things by hand such as crocheting 🧶.  
+
+I’m also curious about 🌍 cultures, 🗣️ languages, and the ✨ little details in everyday life. That same curiosity drives how I approach technology and design.  
+
 
 
 
