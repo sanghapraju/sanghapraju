@@ -1,4 +1,4 @@
-## Hello there, I’m Shreya Sanghamitra 🤗
+## Hello there, I’m Shreya 🤗
 Welcome to my Github 🙌
 
 ## 📬 Reach Out to Me
