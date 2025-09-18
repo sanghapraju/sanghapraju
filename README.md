@@ -1,9 +1,11 @@
 ## Hi, I’m Shreya 👋
 
 ## 📬 Reach Out to Me
-[LinkedIn | Shreya Sanghamitra](https://www.linkedin.com/in/shreya-sanghamitra) • 
-[Email | sanghapraju@yahoo.com](mailto:sanghapraju@yahoo.com) • 
-[GitHub | shreyasanghamitra](https://github.com/sanghapraju) • 
+
+[![LinkedIn | Shreya Sanghamitra](https://img.shields.io/badge/LinkedIn%20%7C%20Shreya%20Sanghamitra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-sanghamitra) 
+[![Email | sanghapraju@yahoo.com](https://img.shields.io/badge/Email%20%7C%20sanghapraju%40yahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanghapraju@yahoo.com) 
+[![GitHub | shreyasanghamitra](https://img.shields.io/badge/GitHub%20%7C%20shreyasanghamitra-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanghapraju)
+
 
 
 
