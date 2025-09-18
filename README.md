@@ -3,7 +3,7 @@
 ## 📬 Reach Out to Me
 [LinkedIn | Shreya Sanghamitra](https://www.linkedin.com/in/shreya-sanghamitra) • 
 [Email | sanghapraju@yahoo.com](mailto:sanghapraju@yahoo.com) • 
-[GitHub | shreyasanghamitra](https://github.com/shreyasanghamitra) • 
+[GitHub | shreyasanghamitra](https://github.com/sanghapraju) • 
 
 
 
