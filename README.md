@@ -8,7 +8,7 @@ Welcome to my Github 🙌
 [![GitHub | shreyasanghamitra](https://img.shields.io/badge/GitHub%20%7C%20shreyasanghamitra-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanghapraju)
 
 ## 🙋‍♀️ About Me
-I love creating things that live at the intersection of **Artificial Intelligence, Human-Computer Interaction, and Language Technologies**.  
+I love creating things that live at the intersection of **Artificial Intelligence, Human-Computer Interaction and Language Technologies**.  
 
 
 <!--
