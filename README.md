@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hello there I'm Shreya 🤗
 
+## 📬 Reach Out to Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](www.linkedin.com/in/shreya-sanghamitra) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanghapraju@yahoo.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&logo=github&logoColor=white)](https://github.com/shreyasanghamitra) 
 <!--
 **sanghapraju/sanghapraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
